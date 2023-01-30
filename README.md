@@ -13,6 +13,7 @@ CinemaSceneのCameraを日本風にしたリポジトリ
         {
             transform.rotation = Quaternion.LookRotation(moveForward);
         }
-    }`
+    }
+    `
     上記の部分でplayerのカメラの向いている方向に進むというコードが書かれている。
     
